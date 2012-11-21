@@ -1,0 +1,8 @@
+CPAN_AUTHOR="azawawi"
+inherit perl
+
+NAME="perl-Parse-ErrorString-Perl"
+VERSION=0.15
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Parses error messages from the perl interpreter"
