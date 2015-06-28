@@ -1,8 +1,10 @@
-CPAN_AUTHOR="azawawi"
+CPAN_AUTHOR="szabgab"
 inherit perl
 
 NAME="perl-Parse-ErrorString-Perl"
-VERSION=0.15
+VERSION=0.21
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Parses error messages from the perl interpreter"
+
+ARCH=noarch
